@@ -1,3 +1,3 @@
 # Proyecto-LP2
 
-Es mmi proyecto de lenguaje de programacion 2 :c
+Es mi proyecto de lenguaje de programacion 2 :c
